@@ -11,4 +11,4 @@
 ## ☕ Contact me.
 feel free to talk to me, contact me [HERE](https://meindoragon.carrd.co/) EN/PT/ES
 
-![Alt Text](https://giffiles.alphacoders.com/931/93166.gif)
+![Alt Text](https://cdn.discordapp.com/attachments/570786862889828352/996557083329712129/600px_n_deletar_desktop.gif?size=4096)
