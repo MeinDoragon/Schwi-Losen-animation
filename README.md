@@ -1,8 +1,8 @@
 <<h1 align="center">📄<br>Schwi-Losen-animation</h1>
 ## This repository is an animation of my own with Lösen from Schwi Dolla, Character from No Game No Life.
 
-[![About Schwi](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=SCHWI&logoColor=black&color=2acaea)](https://no-game-no-life.fandom.com/wiki/Schwi_Dola )
-[![About Me](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=CARD&logoColor=black&color=9b48e9)](https://meindoragon.carrd.co/)
+[![About Schwi](https://img.shields.io/badge/About_Schwi_%20-%23323330.svg?&style=for-the-badge&logo=SCHWI&logoColor=black&color=2acaea)](https://no-game-no-life.fandom.com/wiki/Schwi_Dola )
+[![About Me](https://img.shields.io/badge/About_me%20-%23323330.svg?&style=for-the-badge&logo=CARD&logoColor=black&color=9b48e9)](https://meindoragon.carrd.co/)
 
 ## About This Repository.
 
