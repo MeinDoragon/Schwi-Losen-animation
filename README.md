@@ -8,6 +8,6 @@
 
 <p><small>I really wanted a schwi lösen animation, with background transparency, that is, alpha channel, but few formats support it, and gifs tend to be problematic, heavy and ugly, so I made the animation using HTML and CSS.</small></p>
 
-[☕ Contact me here](meindoragon.carrd.co) EN/PT/ES
+[☕ Contact me here](https://meindoragon.carrd.co/) EN/PT/ES
 
 ![Alt Text](https://cdn.discordapp.com/attachments/570786862889828352/996557083329712129/600px_n_deletar_desktop.gif?size=4096)
